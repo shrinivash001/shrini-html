@@ -5,8 +5,8 @@ body {
 }
 #BOX1 {
         background-color: aliceblue;
-        padding: 150px;
-        margin: 30px;
+        padding: 100px;
+        margin: 10px;
 }
 .SIZE { 
     max-width: 350px ;
